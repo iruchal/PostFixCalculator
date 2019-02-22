@@ -1,8 +1,16 @@
 MY README FILE
 
-ISHAN RUCHAL, 1016484
+The program takes as input an arithmetic expression
+of binary operators +, −, ∗, /, and converts the expression into a binary expression tree. The
+program takes input from the command line.
+
+The program should then show a menu with the following options:
+1. Display
+2. Preorder
+3. Inorder
+4. Postorder
+
+To to pass (((1.56+4.26)*(x1-2.23))/x2) to a program, the argument should
+be \(\(\(1.56+4.26\)*\(x1-2.23\)\)/x2\)
 
 
-For question 1, PLEASE NOTE: the sample test \(\(\(1.56+4.26\)*\(x1-2.23\)\)/x2\) completely works fine in my macbook. But when i input it in nomachine, it breaks my program for some reason. Please keep note of this. my tree completely works but i have not displayed it. It parses the function. Options 2, 3, 4 work as well. I did not have time for it.
-
-For question 2, everything works fine. My heapsort works.
